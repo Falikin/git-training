@@ -7,3 +7,5 @@ commit3
 
 rama 
 rama 2
+
+conflict
