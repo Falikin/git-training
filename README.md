@@ -8,4 +8,8 @@ commit3
 rama 
 rama 2
 
+<<<<<<< HEAD
 conflict
+=======
+conflicto
+>>>>>>> rama
