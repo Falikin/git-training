@@ -1,0 +1,61 @@
+[33mcommit 79c98d9409bfa3f2559a1b54e93c9ad5a6fa5c40[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Falikin <falikin@gmail.com>
+Date:   Thu Sep 20 14:01:18 2018 +0200
+
+    ejercicio 5
+
+[33mcommit 1206f6f757ec4bf5d13d4319ca4c839c824ee2cf[m
+Merge: 20d06e8 7b2655c
+Author: Falikin <falikin@gmail.com>
+Date:   Thu Sep 20 13:59:23 2018 +0200
+
+    conflict
+
+[33mcommit 7b2655c693cd44f3b93717d7bd63e50ba18feaa5[m[33m ([m[1;32mrama[m[33m)[m
+Author: Falikin <falikin@gmail.com>
+Date:   Thu Sep 20 13:57:19 2018 +0200
+
+    conflictos_rama
+
+[33mcommit 20d06e8ea8a8b199d342d881ebd160d3ec354886[m
+Author: Falikin <falikin@gmail.com>
+Date:   Thu Sep 20 13:56:29 2018 +0200
+
+    conflictos
+
+[33mcommit ab10a0c10f5784c558b3e27cb9ef77331afdd608[m
+Merge: e9aed56 a696646
+Author: Falikin <falikin@gmail.com>
+Date:   Thu Sep 20 13:49:00 2018 +0200
+
+    Merge branch 'rama'
+
+[33mcommit a6966461072d5b89676d1b68b87a4abce7c8ccab[m
+Author: Falikin <falikin@gmail.com>
+Date:   Thu Sep 20 13:48:10 2018 +0200
+
+    rama2
+
+[33mcommit e9aed56b1ee48dca534badf09f20c19adb9c4e77[m
+Author: Falikin <falikin@gmail.com>
+Date:   Thu Sep 20 13:37:38 2018 +0200
+
+    rama
+
+[33mcommit 7edf140882528948ef7bd18250b0b97bd918294c[m
+Author: Falikin <falikin@gmail.com>
+Date:   Thu Sep 20 13:24:43 2018 +0200
+
+    commit4
+
+[33mcommit 89a619f877484b20a024f513d088116477523726[m
+Author: Falikin <falikin@gmail.com>
+Date:   Thu Sep 20 13:18:15 2018 +0200
+
+    commit1
+
+[33mcommit 64763853c3db1fbd8de5460672fefb82fe1dfbce[m
+Author: Falikin <43439109+Falikin@users.noreply.github.com>
+Date:   Thu Sep 20 12:28:06 2018 +0200
+
+    Initial commit
